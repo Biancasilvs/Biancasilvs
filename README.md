@@ -15,7 +15,7 @@ seja bem vindo 👋
 
 ###
 
-<h2 align="left">minha linguagem de domínio</h2>
+<h2 align="left">meus domínio</h2>
 
 ###
 
